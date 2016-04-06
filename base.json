@@ -7,7 +7,7 @@
   "info": {
     "label": "Master's Student",
     "image": "",
-    "brief": "Siddharth is pursuing his Master's degree in Computer Engineering from Virginia Tech and has earned his Bachelors degree from IIT Roorkee, India. He has 3 years of industry work experience as a software developer. He worked for Qualcomm as a software developer and was responsible for board bringup and linux device drivers development for Android Platform. He currently focuses on building application developement frameworks for  different Cloud Computing  paradigms."
+    "brief": "Siddharth is pursuing his Master's degree in Computer Engineering from Virginia Tech and has earned his Bachelors degree from IIT Roorkee, India. He has 3 years of industry work experience as a software developer. He currently focuses on building application developement framework for a specific Cloud Computing paradigm known as Fog Computing. He has build web application using technologies like Node.js, java servlets, MangoDB, HTTP/CSS and jQuery."
   },
   "contact": {
     "email": "sbhal@vt.edu",
@@ -39,15 +39,15 @@
         "employer": "Qualcomm",
         "url": "https://www.qualcomm.com/",
         "position": "Software Engineer",
-        "summary": "Developer in WLAN and linux kernel platform team",
+        "summary": "Developer in Android kernel platform and WLAN team",
         "start": "2014-02",
         "end": "2015-06",
-        "keywords": ["C++","Android", "Linux","Drivers","Wlan","TCP", "802.11"],
+        "keywords": ["C++","Android", "Linux","Drivers","Wlan","TCP", "802.11", "Agile", "Git"],
         "highlights": [
         "Worked on Design & Development of Linux WLAN device driver for upcoming MSM SoC platforms.",
         "Responsible for Bring-up of WLAN subsystem for new MSM SoC paltforms on Linux Android.",
         "Contributed to linux community by upstreaming to msm-kernel and msm-wlan projects.",
-        "Received 9 QualStar awards for outstanding contributions"
+        "Received **9 QualStar** awards for outstanding contributions"
         ]
       },
       {
@@ -78,7 +78,7 @@
       "summary": "Unified Event Driven Application Development Framework",
       "highlights": [
       "Developing IOT application framework based on Fog Computing with the aim of reducing developers effort in developing IOT applications."],
-      "keywords": ["JavaScript", "Node.js","HTTP", "WebSocket", "Arduino"]
+      "keywords": ["JavaScript", "Node.js","HTTP", "WebSockets", "Arduino"]
     },
     {
       "title": "Event Driven Building System",
@@ -132,7 +132,6 @@
       {
         "institution": "Virginia Tech",
         "start": "2015-08",
-        "end": "2014-01",
         "grade": "3.85",
         "curriculum": [
           "CS4104 - Data and Algorithm Analysis",
@@ -141,8 +140,8 @@
           "ECE5598 - Real Time Systems",
           "ECE5554 - Computer Vision"
         ],
-        "url": null,
-        "summary": null,
+        "url": "https://www.ece.vt.edu/",
+        "summary": "Masters in Computer Engineering **(GPA: 3.85)**",
         "area": "Computer Engineering"
       },
       {
@@ -156,8 +155,8 @@
           "EC-101A - Computer Systems & Programming",
           "EE-307 - Microprocessor & Peripheral Devices"
         ],
-        "url": null,
-        "summary": null,
+        "url": "http://www.iitr.ac.in/departments/EE/pages/",
+        "summary": "Bachelor in Electrical Engineering",
         "studyType": "Bachelor",
         "area": "Electrical Engineering"
       }
@@ -176,18 +175,10 @@
         "name": "Languages",
         "level": "Master",
         "skills": [
-          "C++",
           "Javascript",
+          "C++",
           "Python",
           "Java"
-        ]
-      },
-      {
-        "name": "Linux",
-        "level": "Master",
-        "skills": [
-          "Driver Development",
-          "Kernel"
         ]
       }
     ],

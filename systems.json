@@ -1,0 +1,27 @@
+{
+  "info": {
+    "brief": "Siidharth is pursuing his Master's degree in Computer Engineering from Virginia Tech and has earned his Bachelors degree from IIT Roorkee, India. He has 3 years of industry work experience as a software developer. He worked for Qualcomm as a software developer and was responsible for board bringup and linux device drivers development for Android Platform. He currently focuses on building application developement frameworks for a specific Cloud Computing paradigm known as Fog Computing."
+  },
+    "skills": {
+    "sets": [
+      {
+        "name": "Web Dev",
+        "level": "Master",
+        "skills": [
+          "NodeJS", "REST", "MVC", "HTML", "CSS", "Javascript"
+        ]
+      },
+      {
+        "name": "Languages",
+        "level": "Master",
+        "skills": [
+          "Javascript",
+          "C++",
+          "Python",
+          "Java"
+        ]
+      }
+    ]
+}
+
+}
