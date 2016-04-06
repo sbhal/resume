@@ -1,5 +1,159 @@
 {
-  "info": {
-    "brief": "Siddharth is pursuing his Master's degree in Computer Engineering from Virginia Tech and has earned his Bachelors degree from IIT Roorkee, India. He has 3 years of industry work experience as a software developer. He currently focuses on building application developement framework for a specific Cloud Computing paradigm known as Fog Computing. He has build web application using technologies like Node.js, java servlets, MangoDB, HTTP/CSS and jQuery."
-  }
+    "info": {
+        "brief": "Siddharth is pursuing his Master's degree in Computer Engineering from Virginia Tech and has earned his Bachelor's degree from IIT Roorkee, India. He has 3 years of industry work experience as a software developer. He currently focuses on building application development framework for a specific Cloud Computing paradigm known as Fog Computing. He has build web application using technologies like Node.js, java servlets, MongoDB, HTTP/CSS and jQuery."
+    },
+    "employment": {
+        "history": [
+            {
+                "employer": "Virginia Tech"
+            },
+            {
+                "employer": "Qualcomm",
+                "summary": "Developer in Android kernel platform and WLAN team",
+              "keywords": [
+                    "C++",
+                    "Android",
+                    "Linux",
+                    "Wlan",
+                    "Agile",
+                    "Git"
+                ],
+                "highlights": [
+                    "Development of Android WLAN driver and responsible for MSM SoC bringup for WLAN subsystem",
+                    "Contributed to linux community by upstreaming to msm-kernel and msm-wlan projects.",
+                    "Received **9 QualStar** awards for outstanding contributions"
+                ]
+            },
+            {
+                "employer": "Cisco",
+                "keywords": [
+                    "C",
+                    "IOS",
+                    "Distributed Computing"
+                ],
+                "highlights": [
+                    "Worked on development of Leader-Server based Distributed Computing Model.",
+                    "Worked on IPC/ICC protocols for inter processor communication.",
+                    "Awarded with **CISCO Spark and CISCO Star** for excellent performance"
+                ]
+            }
+        ]
+    },
+    "projects": [
+        {
+            "title": "IOT Application Framework",
+            "keywords": [
+                "JavaScript",
+                "Node.js",
+                "HTTP",
+                "WebSockets",
+                "Arduino",
+                "IOT",
+                "Fog Computing",
+                "Redis"
+            ]
+        },
+        {
+            "title": "Event Driven Building Simulation System",
+            "keywords": [
+                "Android",
+                "Java",
+                "Servlets",
+                "Push Notification",
+                "REST",
+                "Agile",
+                "Appium",
+                "NodeJS",
+                "HTML",
+                "jQuery",
+                "JSP",
+                "DynamoDB",
+                "NoSQL",
+                "Google Cloud Messaging",
+                "Google App Engine",
+                "Amazon SNS",
+                "Amazon Lambda"
+            ]
+        },
+        {
+            "title": "People Counter",
+            "keywords": [
+                "Python",
+                "Numpy",
+                "MATLAB",
+                "kNN"
+            ]
+        }
+    ],
+    "education": {
+        "history": [
+            {
+                "curriculum": [
+                    "Data and Algorithm Analysis,",
+                    "Cloud Computing,",
+                    "Advanced Software Development,",
+                    "Real Time Systems,",
+                    "Computer Vision"
+                ]
+            },
+            {
+                "institution": "IIT Roorkee",
+                "curriculum": [
+                    "Data Structures, ",
+                    "Database Management,",
+                    "Computer Systems & Programming"
+                ]
+            }
+        ]
+    },
+    "skills": {
+        "sets": [
+            {
+                "name": "Web",
+                "level": "Master",
+                "skills": [
+                    "Node.js",
+                    "Javascript",
+                    "REST",
+                    "MVC",
+                    "HTML",
+                    "CSS",
+                    "Servlet/JSP"
+                ]
+            },
+            {
+                "name": "JavaScript",
+                "level": "Master",
+                "skills": [
+                    "Node.js",
+                    "Bootstrap",
+                    "jQuery",
+                    "MongoDB",
+                    "Redis"
+                ]
+            },
+            {
+                "name": "Cloud",
+                "level": "Master",
+                "skills": [
+                    "AWS",
+                    "EC2",
+                    "DynamoDB",
+                    "S3",
+                    "Amazon Lambda",
+                    "Amazon SNS"
+                ]
+            },
+            {
+                "name": "Languages",
+                "level": "Master",
+                "skills": [
+                    "Javascript",
+                    "C++",
+                    "Python",
+                    "Java"
+                ]
+            }
+        ]
+    }
 }

@@ -1,27 +1,148 @@
 {
-  "info": {
-    "brief": "Siidharth is pursuing his Master's degree in Computer Engineering from Virginia Tech and has earned his Bachelors degree from IIT Roorkee, India. He has 3 years of industry work experience as a software developer. He worked for Qualcomm as a software developer and was responsible for board bringup and linux device drivers development for Android Platform. He currently focuses on building application developement frameworks for a specific Cloud Computing paradigm known as Fog Computing."
-  },
+    "info": {
+        "brief": "Siidharth is pursuing his Master's degree in Computer Engineering from Virginia Tech and has earned his Bachelor's degree from IIT Roorkee, India. He has 3 years of industry work experience as a software developer. He worked for Qualcomm as a software developer and was responsible for board bringup and linux device drivers development for Android Platform. He currently focuses on building application developement frameworks for a specific Cloud Computing paradigm known as Fog Computing."
+    },
+    "employment": {
+        "history": [
+            {
+                "employer": "Virginia Tech"
+            },
+            {
+                "employer": "Qualcomm",
+                "summary": "Developer in Android kernel platform and WLAN team",
+              "keywords": [
+                    "C++",
+                    "Android",
+                    "Linux",
+                    "Drivers",
+                    "Wlan",
+                    "TCP",
+                    "802.11",
+                    "Agile",
+                    "Git"
+                ],
+                "highlights": [
+                    "Worked on Design & Development of Linux WLAN device driver for upcoming MSM SoC platforms.",
+                    "Responsible for Bring-up of WLAN subsystem for new MSM SoC platforms on Linux Android.",
+                    "Contributed to linux community by upstreaming to msm-kernel and msm-wlan projects.",
+                    "Received **9 QualStar** awards for outstanding contributions"
+                ]
+            },
+            {
+                "employer": "Cisco",
+                "keywords": [
+                    "C",
+                    "IOS",
+                    "L3 Router",
+                    "L2 Switch",
+                    "Distributed Computing"
+                ],
+                "highlights": [
+                    "Development of platform for ES+ line card (760Gbps) in CISCO 7600 Router.",
+                    "Worked on IPC/ICC protocols for inter processor communication.",
+                    "Awarded with **CISCO Spark and CISCO Star** for excellent performance"
+                ]
+            }
+        ]
+    },
+    "projects": [
+        {
+            "title": "IOT Application Framework",
+            "keywords": [
+                "IOT",
+                "TCP",
+                "IP",
+                "WebSockets",
+                "Arduino",
+                "Fog Computing",
+                "JavaScript",
+                "Node.js",
+                "HTTP"
+            ]
+        },
+        {
+            "title": "Event Driven Building Simulation System",
+            "keywords": [
+                "Android",
+                "Java",
+                "Servlets",
+                "Push Notification",
+                "REST",
+                "Agile",
+                "Appium",
+                "NodeJS",
+                "HTML",
+                "jQuery",
+                "JSP",
+                "DynamoDB",
+                "NoSQL"
+            ]
+        },
+        {
+            "title": "People Counter",
+            "keywords": [
+                "Python",
+                "Numpy",
+                "MATLAB",
+                "kNN"
+            ]
+        }
+    ],
+    "education": {
+        "history": [
+            {
+                "curriculum": [
+                    "Data and Algorithm Analysis,",
+                    "Cloud Computing,",
+                    "Advanced Software Development,",
+                    "Real Time Systems,",
+                    "Computer Vision"
+                ]
+            },
+            {
+                "institution": "IIT Roorkee",
+                "curriculum": [
+                    "Data Structures, ",
+                    "Database Management,",
+                    "Computer Systems & Programming,",
+                    "Microprocessor & Peripheral Devices"
+                ]
+            }
+        ]
+    },
     "skills": {
-    "sets": [
-      {
-        "name": "Web Dev",
-        "level": "Master",
-        "skills": [
-          "NodeJS", "REST", "MVC", "HTML", "CSS", "Javascript"
+        "sets": [
+            {
+                "name": "Languages",
+                "level": "Master",
+                "skills": [
+                    "C/C++",
+                    "Python",
+                    "Java",
+                    "Javascript"
+                ]
+            },
+            {
+                "name": "Linux",
+                "level": "Master",
+                "skills": [
+                    "Multi-threaded Driver Development",
+                    "Schedulers",
+                    "Kernel"
+                ]
+            },
+            {
+                "name": "Web Dev",
+                "level": "Master",
+                "skills": [
+                    "NodeJS",
+                    "REST",
+                    "MVC",
+                    "HTML",
+                    "CSS",
+                    "Javascript"
+                ]
+            }
         ]
-      },
-      {
-        "name": "Languages",
-        "level": "Master",
-        "skills": [
-          "Javascript",
-          "C++",
-          "Python",
-          "Java"
-        ]
-      }
-    ]
-}
-
+    }
 }
